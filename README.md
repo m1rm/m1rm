@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi! 😊
 
-🔭  I’m currently working on ...
-    Just coding & constantly trying to improve myself.
-    
-🌱  I’m currently learning ...
-    Symfony, Nuxt3
-   
-📫  How to reach me:
+I’m currently working with 👀  
+    - Symfony  
+    - Nuxt3
+       
+ 💻  How to reach me:  
     https://www.linkedin.com/in/miriam-m%C3%BCller-bb1920200/
 
 
