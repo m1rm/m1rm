@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭  I’m currently working on ...
+    Just coding & constantly trying to improve myself.
+    
+🌱  I’m currently learning ...
+    Symfony, Nuxt3
+   
+📫  How to reach me:
+    https://www.linkedin.com/in/miriam-m%C3%BCller-bb1920200/
+
+
 <!--
 **shushiro/shushiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
