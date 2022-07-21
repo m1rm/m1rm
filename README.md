@@ -6,7 +6,7 @@
 
 ### I like:  
 - 🏕 Nature, Travelling & Hiking  
-- 🤿 Scuba Diving & Swimming
+- 🤿 Scuba Diving & Biking 🚴
 - 🧟 Zombie survival/shooter games  
        
 ### Get in touch:  
