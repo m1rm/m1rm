@@ -3,6 +3,7 @@
 ### I’m currently working with 👀  
 - Symfony  
 - Vue3 & Nuxt3
+- Python
 
 ### I like:  
 - 🏕 Nature, Travelling & Hiking  
