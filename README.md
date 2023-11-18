@@ -2,8 +2,8 @@
 
 ### I’m currently working with 👀  
 - JS (Node) 
-- Vue3 & Nuxt3
-- PHP (Symfony) & Python
+- Vue2 & 3
+- PHP (Symfony)
 
 ### Web Development Blog
 My Blog is targeted towards beginners enthusiastic about learning  
@@ -12,7 +12,7 @@ My Blog is targeted towards beginners enthusiastic about learning
 ### I like:  
 - 🏕 Nature, Travelling & Hiking  
 - 🤿 Scuba Diving & Biking 🚴
-- 🧟 Zombie survival/shooter games  
+- 🧟 (Zombie) survival games
        
 ### Get in touch:  
   - mail@miriam-mueller.com
