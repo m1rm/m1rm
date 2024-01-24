@@ -11,8 +11,8 @@ My Blog is targeted towards beginners enthusiastic about learning
 
 ### I like:  
 - 🏕 Nature, Travelling & Hiking  
-- 🤿 Scuba Diving & Biking 🚴
-- 🧟 (Zombie) survival games
+- 🛰 SciFi 🛸
+- 🧟 Survival Games
        
 ### Get in touch:  
   - mail@miriam-mueller.com
