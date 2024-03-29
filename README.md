@@ -1,12 +1,12 @@
 # Hi, I'm Miriam 🖖 👩‍💻
 
-### Tech Stak 👀  
+### Tech Stack 👀  
 - JS (Node, Vue2/3)
 - PHP (Symfony)
 - Docker/Kubernetes
 - MySQL/Postgres
 
-### I'm currently learning
+### I'm interested in
 - Go
 - SvelteKit
 
