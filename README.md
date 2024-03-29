@@ -1,8 +1,10 @@
 # Hi, I'm Miriam 🖖 👩‍💻
 
-### I’m currently working with 👀  
-- JS (Node, Vue2/3) 
+### Tech Stak 👀  
+- JS (Node, Vue2/3)
 - PHP (Symfony)
+- Docker/Kubernetes
+- MySQL/Postgres
 
 ### I'm currently learning
 - Go
