@@ -1,9 +1,12 @@
 # Hi, I'm Miriam 🖖 👩‍💻
 
 ### I’m currently working with 👀  
-- JS (Node) 
-- Vue2 & 3
+- JS (Node, Vue2/3) 
 - PHP (Symfony)
+
+## I'm currently learning
+- Go
+- SvelteKit
 
 ### Web Development Blog
 My Blog is targeted towards beginners enthusiastic about learning  
