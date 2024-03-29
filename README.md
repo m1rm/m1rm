@@ -4,7 +4,7 @@
 - JS (Node, Vue2/3) 
 - PHP (Symfony)
 
-## I'm currently learning
+### I'm currently learning
 - Go
 - SvelteKit
 
