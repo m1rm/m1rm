@@ -6,10 +6,6 @@
 - Docker/Kubernetes
 - MySQL/Postgres
 
-### I'm interested in
-- Go
-- SvelteKit
-
 ### Web Development Blog
 My Blog is targeted towards beginners enthusiastic about learning  
 💻 [Miriam Müller Blog](https://www.miriam-mueller.com)
