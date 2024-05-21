@@ -9,11 +9,6 @@
 ### Web Development Blog
 My Blog is targeted towards beginners enthusiastic about learning  
 💻 [Miriam Müller Blog](https://www.miriam-mueller.com)
-
-### I like:  
-- 🏕 Nature, Travelling & Hiking  
-- 🛰 SciFi 🛸
-- 🧟 Survival Games
        
 ### Get in touch:  
   - mail@miriam-mueller.com
