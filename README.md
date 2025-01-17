@@ -10,8 +10,8 @@ My Blog is targeted towards beginners enthusiastic about learning
 
 ## :art: Languages used
 
-![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=m1rm&theme=graywhite)
+![m1rm Github Stats vercel](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=m1rm&theme=dark)
 
 ## :pencil: GitHub stats
 
-<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=m1rm&show_icons=true&hide_border=true&theme=vue&count_private=true" alt="metalim's GitHub Stats" />
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=m1rm&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="m1rm's GitHub Stats" />
