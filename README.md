@@ -1,13 +1,19 @@
 # Hi, I'm Miriam 🖖 👩‍💻
 
-### Web Development Blog
+### 🤓 Web Development Blog
 My Blog is targeted towards beginners enthusiastic about learning  
 💻 [Miriam Müller Blog](https://www.miriam-mueller.com)
+
+### Open Sourcerer 🧙
+Some repos I contributed to:
+- [svgMap](https://github.com/StephanWagner/svgMap)
+- [pkgstats](https://github.com/archlinux-de/pkgstats.archlinux.de)
        
 ### Get in Touch  
   - mail@miriam-mueller.com
   - [Linked In](https://www.linkedin.com/in/miriam-m%C3%BCller-bb1920200/)
 
+<!--
 ### GitHub Stats
 
 <table>
@@ -28,3 +34,4 @@ My Blog is targeted towards beginners enthusiastic about learning
     </td>
   </tr>
 </table>
+-->
