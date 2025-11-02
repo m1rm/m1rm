@@ -11,7 +11,7 @@ Some projects I contributed to:
        
 ### Get in Touch  
   - mail@miriam-mueller.com
-  - [Linked In](https://www.linkedin.com/in/miriam-m%C3%BCller-bb1920200/)
+  - [Linked In](https://www.linkedin.com/in/m1rm/)
 
 <!--
 ### GitHub Stats
