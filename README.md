@@ -5,7 +5,6 @@ My Blog is targeted towards beginners enthusiastic about learning
 💻 [Miriam Müller Blog](https://www.miriam-mueller.com)
 
 ### Open Sourcerer 🧙
-Some projects I contributed to:
 - [svgMap](https://github.com/StephanWagner/svgMap)
 - [pkgstats.archlinux.de](https://github.com/archlinux-de/pkgstats.archlinux.de)
 - [archlinux.de](https://github.com/archlinux-de/www.archlinux.de)
