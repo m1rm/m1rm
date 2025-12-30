@@ -7,7 +7,8 @@ My Blog is targeted towards beginners enthusiastic about learning
 ### Open Sourcerer 🧙
 Some projects I contributed to:
 - [svgMap](https://github.com/StephanWagner/svgMap)
-- [pkgstats](https://github.com/archlinux-de/pkgstats.archlinux.de)
+- [pkgstats.archlinux.de](https://github.com/archlinux-de/pkgstats.archlinux.de)
+- [archlinux.de](https://github.com/archlinux-de/www.archlinux.de)
        
 ### Get in Touch  
   - mail@miriam-mueller.com
