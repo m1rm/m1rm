@@ -7,7 +7,6 @@ My Blog is targeted towards beginners enthusiastic about learning
 ### Open Sourcerer 🧙
 - [svgMap](https://github.com/StephanWagner/svgMap)
 - [pkgstats.archlinux.de](https://github.com/archlinux-de/pkgstats.archlinux.de)
-- [archlinux.de](https://github.com/archlinux-de/www.archlinux.de)
        
 ### Get in Touch  
   - mail@miriam-mueller.com
